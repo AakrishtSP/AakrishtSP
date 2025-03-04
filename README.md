@@ -91,7 +91,6 @@
   </h3>
   <p>Command-line interface for song lyrics display</p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/API-FF6F00?logo=fastapi&logoColor=white" alt="API">
 </div>
 </div>
 
