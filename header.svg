@@ -1,23 +1,30 @@
-<svg viewBox="0 0 400 100" width="100%" height="100" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 400 150" width="100%" height="150" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml" style="background: linear-gradient(45deg, #1a1a1a 0%, #2d2d2d 100%); height: 100%; display: grid; place-items: center;">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="height: 100%; display: grid; place-items: center; background: transparent;">
       <style>
         .animated-text {
-          color: white;
+          color: #ffffff;
           font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
           font-size: 2.5rem;
-          font-weight: 700;
+          font-weight: 500;
           text-align: center;
-          animation: pulse 2s ease-in-out infinite;
-          text-shadow: 0 4px 8px rgba(0,0,0,0.3);
+          animation: subtle-pulse 4s ease-in-out infinite;
+          margin: 0;
+          line-height: 1.2;
         }
-        @keyframes pulse {
-          0% { transform: scale(1); opacity: 0.9; }
-          50% { transform: scale(1.05); opacity: 1; }
-          100% { transform: scale(1); opacity: 0.9; }
+        
+        @keyframes subtle-pulse {
+          0% { transform: scale(1); }
+          50% { transform: scale(1.02); }
+          100% { transform: scale(1); }
         }
       </style>
-      <h1 class="animated-text" aria-label="Aakrisht Paudel's Profile">Hi, I'm Aakrisht 👋</h1>
+      <h1 class="animated-text" aria-label="Aakrisht Paudel - Game Engine Developer">
+        Hi, I'm Aakrisht 👋<br>
+        <span style="font-size: 1.2rem; font-weight: 300; display: block; margin-top: 8px;">
+          Game Engine & Graphics Programming
+        </span>
+      </h1>
     </div>
   </foreignObject>
 </svg>
