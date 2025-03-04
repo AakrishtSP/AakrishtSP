@@ -78,7 +78,7 @@
   <div style="display: flex; gap: 0.8rem; flex-wrap: wrap; justify-content: center;">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
     <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL">
-    <img src="https://img.shields.io/badge/GLFW-000000?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake">
+    <img src="https://img.shields.io/badge/CMake-000000?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake">
   </div>
 </div>
 
@@ -99,7 +99,7 @@
   <div style="display: flex; gap: 0.8rem; flex-wrap: wrap; justify-content: center;">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
     <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL">
-    <img src="https://img.shields.io/badge/GLFW-000000?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake">
+    <img src="https://img.shields.io/badge/CMake-000000?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake">
   </div>
 </div>
 
@@ -119,7 +119,7 @@
   <p style="color: #aaa; margin-bottom: 1.5rem;">Terminal-based lyrics viewer with streaming integration</p>
   <div style="display: flex; gap: 0.8rem; flex-wrap: wrap; justify-content: center;">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/API-FF6F00?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash">
+    <img src="https://img.shields.io/badge/Bash-FF6F00?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash">
     <img src="https://img.shields.io/badge/DBus-269539?style=for-the-badge&logo=dbus&logoColor=white" alt="DBus">
   </div>
 </div>
