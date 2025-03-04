@@ -62,37 +62,69 @@
 <div align="center">
 
 ### 🎮 Game Development
-<div align="center" style="background: #1a1a1a; padding: 25px; border-radius: 15px; margin: 20px 0; border: 1px solid #333;">
-  <h3>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg" width="40" alt="OpenGL">
-    <a href="https://github.com/AakrishtSP/Rhodo.git">Rhodo Game Engine</a>
-  </h3>
-  <p>Custom game engine with modern graphics pipeline implementation</p>
-  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&logoColor=white" alt="OpenGL">
+<div style="background: #1a1a1a; padding: 2rem; border-radius: 15px; margin: 1.5rem 0; border: 1px solid #333; max-width: 800px;">
+  <div style="display: flex; align-items: center; gap: 1rem; margin-bottom: 1rem;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" 
+         width="48" 
+         alt="C++"
+         style="filter: brightness(0) invert(1);">
+    <h3 style="margin: 0;">
+      <a href="https://github.com/AakrishtSP/Rhodo.git" style="color: #fff; text-decoration: none;">
+        Rhodo Game Engine
+      </a>
+    </h3>
+  </div>
+  <p style="color: #aaa; margin-bottom: 1.5rem;">Modern C++ game engine with Vulkan/OpenGL rendering pipeline</p>
+  <div style="display: flex; gap: 0.8rem; flex-wrap: wrap; justify-content: center;">
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+    <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL">
+    <img src="https://img.shields.io/badge/GLFW-000000?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake">
+  </div>
 </div>
 
 ### 🤖 AI Simulation
-<div align="center" style="background: #1a1a1a; padding: 25px; border-radius: 15px; margin: 20px 0; border: 1px solid #333;">
-  <h3>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++">
-    <a href="https://github.com/AakrishtSP/Reynolds-Steering-Behaviours.git">Reynolds Steering</a>
-  </h3>
-  <p>Autonomous agent implementation using Craig Reynolds' algorithms</p>
-  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/GLM-000000?logo=opengl&logoColor=white" alt="GLM">
+<div style="background: #1a1a1a; padding: 2rem; border-radius: 15px; margin: 1.5rem 0; border: 1px solid #333; max-width: 800px;">
+  <div style="display: flex; align-items: center; gap: 1rem; margin-bottom: 1rem;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" 
+         width="48" 
+         alt="C++"
+         style="filter: brightness(0) invert(1);">
+    <h3 style="margin: 0;">
+      <a href="https://github.com/AakrishtSP/Reynolds-Steering-Behaviours.git" style="color: #fff; text-decoration: none;">
+        Reynolds Steering Behaviors
+      </a>
+    </h3>
+  </div>
+  <p style="color: #aaa; margin-bottom: 1.5rem;">Autonomous agent simulation using computational geometry</p>
+  <div style="display: flex; gap: 0.8rem; flex-wrap: wrap; justify-content: center;">
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+    <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL">
+    <img src="https://img.shields.io/badge/GLFW-000000?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake">
+  </div>
 </div>
 
 ### 🎵 CLI Tools
-<div align="center" style="background: #1a1a1a; padding: 25px; border-radius: 15px; margin: 20px 0; border: 1px solid #333;">
-  <h3>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python">
-    <a href="https://github.com/AakrishtSP/Lyrics-On-Terminal.git">Lyrics On Terminal</a>
-  </h3>
-  <p>Command-line interface for song lyrics display</p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
+<div style="background: #1a1a1a; padding: 2rem; border-radius: 15px; margin: 1.5rem 0; border: 1px solid #333; max-width: 800px;">
+  <div style="display: flex; align-items: center; gap: 1rem; margin-bottom: 1rem;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
+         width="48" 
+         alt="Python"
+         style="filter: brightness(0) invert(1);">
+    <h3 style="margin: 0;">
+      <a href="https://github.com/AakrishtSP/Lyrics-On-Terminal.git" style="color: #fff; text-decoration: none;">
+        Lyrics On Terminal
+      </a>
+    </h3>
+  </div>
+  <p style="color: #aaa; margin-bottom: 1.5rem;">Terminal-based lyrics viewer with streaming integration</p>
+  <div style="display: flex; gap: 0.8rem; flex-wrap: wrap; justify-content: center;">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/API-FF6F00?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash">
+    <img src="https://img.shields.io/badge/DBus-269539?style=for-the-badge&logo=dbus&logoColor=white" alt="DBus">
+  </div>
 </div>
 </div>
+
 
 ## 📫 Contact Me
 <p align="center">
