@@ -1,17 +1,23 @@
-<svg viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 400 100" width="100%" height="100" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="background: linear-gradient(45deg, #1a1a1a 0%, #2d2d2d 100%); height: 100%; display: grid; place-items: center;">
       <style>
         .animated-text {
-          animation: pulse 2s infinite;
+          color: white;
+          font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+          font-size: 2.5rem;
+          font-weight: 700;
+          text-align: center;
+          animation: pulse 2s ease-in-out infinite;
+          text-shadow: 0 4px 8px rgba(0,0,0,0.3);
         }
         @keyframes pulse {
-          0% { transform: scale(1); }
-          50% { transform: scale(1.1); }
-          100% { transform: scale(1); }
+          0% { transform: scale(1); opacity: 0.9; }
+          50% { transform: scale(1.05); opacity: 1; }
+          100% { transform: scale(1); opacity: 0.9; }
         }
       </style>
-      <h1 class="animated-text">Hi, I'm Aakrisht 👋</h1>
+      <h1 class="animated-text" aria-label="Aakrisht Paudel's Profile">Hi, I'm Aakrisht 👋</h1>
     </div>
   </foreignObject>
 </svg>
