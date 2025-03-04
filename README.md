@@ -17,40 +17,35 @@
 <p align="center">
   <!-- C++ -->
   <a href="https://isocpp.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" 
-         width="80" 
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"
          alt="C++"
          title="C++ - ISO/IEC 14882 Standard">
   </a>
 
   <!-- Python -->
   <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
-         width="80" 
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
          alt="Python"
          title="Python - PSF Trademark">
   </a>
 
   <!-- Rust -->
   <a href="https://www.rust-lang.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" 
-         width="80" 
+    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"
          alt="Rust"
          title="Rust - Memory-safe systems">
   </a>
 
   <!-- OpenGL -->
   <a href="https://www.opengl.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/OpenGL_logo.svg" 
-         width="80" 
+    <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white"
          alt="OpenGL"
          title="OpenGL - Cross-platform graphics API">
   </a>
 
   <!-- Vulkan -->
   <a href="https://www.vulkan.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Vulkan_logo.svg" 
-         width="80" 
+    <img src="https://img.shields.io/badge/Vulkan-AC162C?style=for-the-badge&logo=vulkan&logoColor=white"
          alt="Vulkan"
          title="Vulkan - Next-gen graphics & compute">
   </a>
