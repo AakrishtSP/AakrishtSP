@@ -1,5 +1,5 @@
 # Hi, I'm Aakrisht Paudel 👨💻
-[![Animated Header](https://raw.githubusercontent.com/AakrishtSP/AakrishtSP/main/header.svg)](https://github.com/AakrishtSP)
+[![Animated Header](https://raw.githubusercontent.com/AakrishtSP/AakrishtSP/master/header.svg)](https://github.com/AakrishtSP)
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=AakrishtSP.AakrishtSP" alt="visitor count"/>
@@ -12,24 +12,52 @@
 
 ## 🔧 Technical Stack
 <p align="center">
+  <!-- C++ -->
   <a href="https://isocpp.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" 
          width="80" 
          alt="C++"
          title="C++ - ISO/IEC 14882 Standard">
   </a>
+
+  <!-- Python -->
   <a href="https://www.python.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
          width="80" 
          alt="Python"
          title="Python - PSF Trademark">
   </a>
+
+  <!-- Rust -->
   <a href="https://www.rust-lang.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" 
          width="80" 
          alt="Rust"
          title="Rust - Memory-safe systems">
   </a>
+
+  <!-- OpenGL -->
+  <a href="https://www.opengl.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/OpenGL_logo.svg" 
+         width="80" 
+         alt="OpenGL"
+         title="OpenGL - Cross-platform graphics API">
+  </a>
+
+  <!-- Vulkan -->
+  <a href="https://www.vulkan.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Vulkan_logo.svg" 
+         width="80" 
+         alt="Vulkan"
+         title="Vulkan - Next-gen graphics & compute">
+  </a>
+</p>
+
+## 📊 Language Breakdown
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AakrishtSP&layout=compact&theme=radical&hide=html,css,scss,blade&langs_count=8" 
+       alt="Language Breakdown" 
+       style="max-width: 100%">
 </p>
 
 ## 🚀 Featured Projects
@@ -78,5 +106,3 @@
     <img src="https://img.shields.io/badge/Academic_Email-005F99?style=for-the-badge&logo=protonmail&logoColor=white"/>
   </a>
 </p>
-
-<sub>Python® and the Python logo are registered trademarks of the Python Software Foundation</sub>
