@@ -1,5 +1,4 @@
-# Hi, I'm Aakrisht Paudel 👨💻
-[![Animated Header](https://raw.githubusercontent.com/AakrishtSP/AakrishtSP/master/header.svg)](https://github.com/AakrishtSP)
+[![Aakrisht Paudel's Profile Header](https://raw.githubusercontent.com/AakrishtSP/AakrishtSP/master/header.svg)](https://github.com/AakrishtSP)
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=AakrishtSP.AakrishtSP" alt="visitor count"/>
