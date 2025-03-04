@@ -1,4 +1,8 @@
-[![Aakrisht Paudel's Profile Header](https://raw.githubusercontent.com/AakrishtSP/AakrishtSP/master/header.svg)](https://github.com/AakrishtSP)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AakrishtSP/AakrishtSP/master/header.svg" 
+       alt="Aakrisht Paudel | Game Engine Developer" 
+       width="600">
+</div>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=AakrishtSP.AakrishtSP" alt="visitor count"/>
