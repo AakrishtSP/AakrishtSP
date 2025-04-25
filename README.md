@@ -4,9 +4,6 @@
        width="600">
 </div>
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AakrishtSP.AakrishtSP" alt="visitor count"/>
-</p>
 
 **Game Engine Developer | Graphics Programming Enthusiast**  
 `🎓 BCT Student @ IOE, Pulchowk Campus`
@@ -51,11 +48,12 @@
   </a>
 </p>
 
-## 📊 Language Breakdown
+## 📊 Github Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AakrishtSP&layout=compact&theme=radical&hide=html,css,scss,blade&langs_count=8" 
        alt="Language Breakdown" 
        style="max-width: 100%">
+  <img src="https://streak-stats.demolab.com?user=AakrishtSP&theme=gruvbox&hide_border=true&mode=weekly" alt="GitHub Streak" />
 </p>
 
 ## 🚀 Featured Projects
