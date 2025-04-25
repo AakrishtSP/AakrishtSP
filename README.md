@@ -49,7 +49,9 @@
 </p>
 
 ## 📊 Github Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AakrishtSP&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![AakrishtSP's Stats](https://github-readme-stats.vercel.app/api?username=AakrishtSP&theme=onedark&show_icons=true&hide_border=true&count_private=true)
+![AakrishtSP's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AakrishtSP&theme=onedark&show_icons=true&hide_border=true&layout=compact)
+
 
 ## 🚀 Featured Projects
 <div align="center">
