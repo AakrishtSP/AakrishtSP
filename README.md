@@ -49,9 +49,9 @@
 </p>
 
 ## 📊 Github Stats
-![](https://github-readme-stats.vercel.app/api?username=AakkrishtSP&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AakkrishtSP&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AakkrishtSP&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=AakrishtSP&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AakrishtSP&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AakrishtSP&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🚀 Featured Projects
 <div align="center">
