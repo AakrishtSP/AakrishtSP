@@ -49,12 +49,9 @@
 </p>
 
 ## 📊 Github Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AakrishtSP&layout=compact&theme=radical&hide=html,css,scss,blade&langs_count=8" 
-       alt="Language Breakdown" 
-       style="max-width: 100%">
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AakrishtSP&theme=gruvbox&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=AakkrishtSP&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AakkrishtSP&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AakkrishtSP&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🚀 Featured Projects
 <div align="center">
