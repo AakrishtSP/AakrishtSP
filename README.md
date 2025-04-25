@@ -53,7 +53,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AakrishtSP&layout=compact&theme=radical&hide=html,css,scss,blade&langs_count=8" 
        alt="Language Breakdown" 
        style="max-width: 100%">
-  <img src="https://streak-stats.demolab.com?user=AakrishtSP&theme=gruvbox&hide_border=true&mode=weekly" alt="GitHub Streak" />
+ [![GitHub Streak](https://streak-stats.demolab.com?user=AakrishtSP&theme=gruvbox&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 </p>
 
 ## 🚀 Featured Projects
